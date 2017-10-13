@@ -1,0 +1,25 @@
+{
+  "name": "masterelectron",
+  "version": "1.0.0",
+  "description": "\"# MasterElectron\"",
+  "main": "index.js",
+  "dependencies": {
+    "electron": "^1.7.9",
+    "fluent-ffmpeg": "^2.1.2",
+    "jquery": "^3.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "e"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmadhadidi/MasterElectron.git"
+  },
+  "author": "Ahmad M. Al-Hadidi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmadhadidi/MasterElectron/issues"
+  },
+  "homepage": "https://github.com/ahmadhadidi/MasterElectron#readme"
+}
