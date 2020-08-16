@@ -4,7 +4,7 @@
   "description": "\"# MasterElectron\"",
   "main": "index.js",
   "dependencies": {
-    "electron": "^1.7.9",
+    "electron": "^7.2.4",
     "fluent-ffmpeg": "^2.1.2",
     "jquery": "^3.2.1"
   },
